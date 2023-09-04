@@ -64,7 +64,7 @@ const Form = ({ data, setData, setDataFilter, addAlert }) => {
       setDataFilter(newData);
       addAlert({
         text: "Contributor added successfully",
-        color: "primary",
+        color: "success",
         state: true,
       })
       setDataContributor({
