@@ -1,5 +1,5 @@
 import Table from 'react-bootstrap/Table';
-import { } from 'react-icons/fa'
+import {FaTrash } from 'react-icons/fa'
 
 const List = ({dataFilter}) => {
 
